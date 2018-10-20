@@ -1,0 +1,35 @@
+{
+  "name": "navigating-programmatically-and-suspense-measure",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@reach/component-component": "0.1.1",
+    "@reach/router": "1.2.1",
+    "bluebird": "3.5.2",
+    "create-subscription": "16.5.2",
+    "css-box-model": "1.1.0",
+    "framesync": "4.0.1",
+    "immer": "1.7.2",
+    "ix": "2.3.5",
+    "lodash": "4.17.11",
+    "memoize-one": "4.0.2",
+    "react": "16.6.0-alpha.8af6728 - canary",
+    "react-cache": "16.6.0-alpha.8af6728 - canary",
+    "react-dom": "16.6.0-alpha.8af6728 - canary",
+    "react-draggable": "3.0.5",
+    "react-scripts": "2.0.5",
+    "scheduler": "0.10.0-alpha.8af6728 - canary",
+    "react-values": "0.3.0",
+    "recompose": "0.30.0",
+    "rxjs": "6.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
